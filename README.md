@@ -51,5 +51,5 @@ I have worked on lattice-QCD calculations of electroweak box-diagram contributio
 
 ## Contact
 
-Junsik Yoo  
+Jun-Sik Yoo  
 Email: [junsik@korea.ac.kr](mailto:junsik@korea.ac.kr)
